@@ -18,9 +18,9 @@ Com base nos estilos de liderança aprendidos peço que escreva exemplos de comp
 
 # Estimulo X motivação
 
-Quando uma pessoa me diz: "Vamos lá! Faça!", ela está me estimulando.
+"Quando uma pessoa me diz: 'Vamos lá! Faça!', ela está me estimulando.
 
-A motivação vem de dentro. Reúno minhas razões internas e minhas metas para me mexer, para me colocar em movimento. Se não fosse de mim para mim, quem me faria agir a não ser obrigado? E se faço obrigado, não estou sendo motivado. Ao contrário, estou sendo pressionado e, portanto, não é motivação, mas pressão. Eu preciso fazer com que meu desejo, minha vontade e minha capacidade se movimentem internamente e que eu vá buscar. (Mário Sérgio Cortela)
+A motivação vem de dentro. Reúno minhas razões internas e minhas metas para me mexer, para me colocar em movimento. Se não fosse de mim para mim, quem me faria agir a não ser obrigado? E se faço obrigado, não estou sendo motivado. Ao contrário, estou sendo pressionado e, portanto, não é motivação, mas pressão. Eu preciso fazer com que meu desejo, minha vontade e minha capacidade se movimentem internamente e que eu vá buscar". (Mário Sérgio Cortela)
 
 # Processo seletivo
 
