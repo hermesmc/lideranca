@@ -21,3 +21,11 @@ Com base nos estilos de liderança aprendidos peço que escreva exemplos de comp
 Quando uma pessoa me diz: "Vamos lá! Faça!", ela está me estimulando.
 
 A motivação vem de dentro. Reúno minhas razões internas e minhas metas para me mexer, para me colocar em movimento. Se não fosse de mim para mim, quem me faria agir a não ser obrigado? E se faço obrigado, não estou sendo motivado. Ao contrário, estou sendo pressionado e, portanto, não é motivação, mas pressão. Eu preciso fazer com que meu desejo, minha vontade e minha capacidade se movimentem internamente e que eu vá buscar. (Mário Sérgio Cortela)
+
+# Processo seletivo
+
+O líder precisa trazer novas pessoas para compor a equipe, ou seja, é necessário buscar pessoas no mercado.
+
+Como selecionar um candidato fora da empresa para compor a equipe?
+
+Num primeiro momento, é importante definir o perfil do profissional com base no cargo a ser preenchido. 
