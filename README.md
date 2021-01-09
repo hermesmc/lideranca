@@ -28,10 +28,4 @@ O líder precisa trazer novas pessoas para compor a equipe, ou seja, é necessá
 
 Exemplo de formulário para preenchimento do perfil profissional: [descricaoPerfil.docx](https://github.com/hermesmc/lideranca/files/5790929/descricaoPerfil.docx)
 
-Após o preenchimento do formulário, é necessário que os candidatos pré-selecionados passem por algumas etapas de seleção.
-
-Testes de aptidões e psicológicos poderão ser boas alternativas e, após, é importante que o líder se prepare para realizar a entrevista de seleção.
-
-Como sugestão de roteiro, trouxemos seis temas que poderão ser abordados na entrevista.
-
-Peço que vocês, apropriando-se do material indicado no link abaixo, crie um roteiro de entrevista que poderá auxiliar em futuros processos seletivos.
+Após o preenchimento do formulário, é necessário que os candidatos pré-selecionados passem por algumas etapas de seleção. Testes de aptidões e psicológicos poderão ser boas alternativas e, após, é importante que o líder se prepare para realizar a entrevista de seleção. Como sugestão de roteiro, trouxemos seis temas que poderão ser abordados na entrevista. Crie um roteiro de entrevista que poderá auxiliar em futuros processos seletivos: [roteiroEntrevista.pptx](https://github.com/hermesmc/lideranca/files/5790990/roteiroEntrevista.pptx)
