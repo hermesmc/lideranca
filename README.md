@@ -24,12 +24,6 @@ A motivação vem de dentro. Reúno minhas razões internas e minhas metas para 
 
 # Processo seletivo
 
-O líder precisa trazer novas pessoas para compor a equipe, ou seja, é necessário buscar pessoas no mercado.
+O líder precisa trazer novas pessoas para compor a equipe, ou seja, é necessário buscar pessoas no mercado. Como selecionar um candidato fora da empresa para compor a equipe? Num primeiro momento, é importante definir o perfil do profissional com base no cargo a ser preenchido. 
 
-Como selecionar um candidato fora da empresa para compor a equipe?
-
-Num primeiro momento, é importante definir o perfil do profissional com base no cargo a ser preenchido. 
-
-Exemplo de formulário para preenchimento do perfil profissional.
-
-[descricaoPerfil.docx](https://github.com/hermesmc/lideranca/files/5790929/descricaoPerfil.docx)
+Exemplo de formulário para preenchimento do perfil profissional: [descricaoPerfil.docx](https://github.com/hermesmc/lideranca/files/5790929/descricaoPerfil.docx)
