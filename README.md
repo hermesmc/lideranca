@@ -29,3 +29,7 @@ O líder precisa trazer novas pessoas para compor a equipe, ou seja, é necessá
 Como selecionar um candidato fora da empresa para compor a equipe?
 
 Num primeiro momento, é importante definir o perfil do profissional com base no cargo a ser preenchido. 
+
+Exemplo de formulário para preenchimento do perfil profissional.
+
+[descricaoPerfil.docx](https://github.com/hermesmc/lideranca/files/5790929/descricaoPerfil.docx)
