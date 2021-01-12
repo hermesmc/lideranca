@@ -42,4 +42,4 @@ Embora, muitas vezes, os integrantes da equipe sabem o que deve ser realizado. E
 
 # Feedback 
 
-Após avaliação de desempenho frente aos objetivos propostos faz-se necessário um realinhamento de metas junto à equipe. Alguns integrantes continuarão a fazer o trabalho que estavam acostumados, outros farão novas atividades e assim por diante. Em alguns momentos o líder verificará a necessidade de conversar individualmente com as pessoas para reforçar algo que vem ocorrendo ou sugerir algumas modificações. 
+Após avaliação de desempenho frente aos objetivos propostos faz-se necessário um realinhamento de metas junto à equipe. Alguns integrantes continuarão a fazer o trabalho que estavam acostumados, outros farão novas atividades e assim por diante. Em alguns momentos o líder verificará a necessidade de conversar individualmente com as pessoas para reforçar algo que vem ocorrendo ou sugerir algumas modificações. [Formula do feedback.pptx](https://github.com/hermesmc/lideranca/files/5804142/Formula.do.feedback.pptx)
