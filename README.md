@@ -1,4 +1,5 @@
-# Liderança
+# Liderança - conteudo baseado do curso: liderança: práticas de gestão e melhorias do ALURA.
+
 
 ## Tipos de líderes
 
