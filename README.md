@@ -32,6 +32,4 @@ Após o preenchimento do formulário, é necessário que os candidatos pré-sele
 
 # Treinamento da equipe
 
-Uma outra ferramenta que contribui no exercício da liderança junto à equipe é a realização de treinamento constante. Dentro de uma empresa sempre temos novidades: um novo produto, a revisão de um processo, novas diretrizes. A equipe precisa ficar alinhada às novas necessidades. Para isso o líder precisa ficar próximo e acompanhar a execução das atividades. Identificando necessidades de melhorias nos trabalhos da equipe poderá se fazer valer do formulário de levantamento de necessidades para treinamento. 
-
-[Verificando a necessidade de treinamento.docx](https://github.com/hermesmc/lideranca/files/5802275/Verificando.a.necessidade.de.treinamento.docx)
+Uma outra ferramenta que contribui no exercício da liderança junto à equipe é a realização de treinamento constante. Dentro de uma empresa sempre temos novidades: um novo produto, a revisão de um processo, novas diretrizes. A equipe precisa ficar alinhada às novas necessidades. Para isso o líder precisa ficar próximo e acompanhar a execução das atividades. Identificando necessidades de melhorias nos trabalhos da equipe poderá se fazer valer do formulário de levantamento de necessidades para treinamento. Segue um formulário que pode ajudar a verificar a necessidade de treinamento da equipe: [Verificando a necessidade de treinamento.docx](https://github.com/hermesmc/lideranca/files/5802275/Verificando.a.necessidade.de.treinamento.docx)
