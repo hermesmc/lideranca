@@ -1,4 +1,5 @@
-# Liderança - conteudo baseado do curso: liderança: práticas de gestão e melhorias do ALURA.
+# Liderança 
+- Conteúdo baseado do curso: Liderança: práticas de gestão e melhorias - ALURA.
 
 
 ## Tipos de líderes
@@ -43,3 +44,7 @@ Embora, muitas vezes, os integrantes da equipe sabem o que deve ser realizado. E
 # Feedback 
 
 Após avaliação de desempenho frente aos objetivos propostos faz-se necessário um realinhamento de metas junto à equipe. Alguns integrantes continuarão a fazer o trabalho que estavam acostumados, outros farão novas atividades e assim por diante. Em alguns momentos o líder verificará a necessidade de conversar individualmente com as pessoas para reforçar algo que vem ocorrendo ou sugerir algumas modificações. [Formula do feedback.pptx](https://github.com/hermesmc/lideranca/files/5804142/Formula.do.feedback.pptx)
+
+# Demissão
+
+Diversas vezes, devido a não ocorrência das combinações realizadas frente aos feedbacks e avaliações de desempenho, o líder percebe-se na situação de desligamento do colaborador. Embora não seja fácil. Por vezes, é necessário. Uma pessoa não conseguindo entregar resultados ou poluindo o ambiente da equipe, após algumas tentativas, é fundamental que seja desligada. Nesse sentido o líder preserva a equipe, zela pela entrega do resultado e, de alguma forma, poderá estar contribuindo para que a pessoa desligada possa ter outras oportunidades em sua carreira. Uma coisa é bem importante, uma conversa sincera na despedida da pessoa.
