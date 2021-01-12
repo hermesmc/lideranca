@@ -30,12 +30,8 @@ Exemplo de formulário para preenchimento do perfil profissional: [descricaoPerf
 
 Após o preenchimento do formulário, é necessário que os candidatos pré-selecionados passem por algumas etapas de seleção. Testes de aptidões e psicológicos poderão ser boas alternativas e, após, é importante que o líder se prepare para realizar a entrevista de seleção. Como sugestão de roteiro, trouxemos seis temas que poderão ser abordados na entrevista. Crie um roteiro de entrevista que poderá auxiliar em futuros processos seletivos: [roteiroEntrevista.pptx](https://github.com/hermesmc/lideranca/files/5790990/roteiroEntrevista.pptx)
 
-# treinamento da equipe
+# Treinamento da equipe
 
-Uma outra ferramenta que contribui no exercício da liderança junto à equipe é a realização de treinamento constante.
+Uma outra ferramenta que contribui no exercício da liderança junto à equipe é a realização de treinamento constante. Dentro de uma empresa sempre temos novidades: um novo produto, a revisão de um processo, novas diretrizes. A equipe precisa ficar alinhada às novas necessidades. Para isso o líder precisa ficar próximo e acompanhar a execução das atividades. Identificando necessidades de melhorias nos trabalhos da equipe poderá se fazer valer do formulário de levantamento de necessidades para treinamento. 
 
-Dentro de uma empresa sempre temos novidades: um novo produto, a revisão de um processo, novas diretrizes. A equipe precisa ficar alinhada às novas necessidades.
-
-Para isso o líder precisa ficar próximo e acompanhar a execução das atividades.
-
-Identificando necessidades de melhorias nos trabalhos da equipe poderá se fazer valer do formulário de levantamento de necessidades para treinamento. 
+[Verificando a necessidade de treinamento.docx](https://github.com/hermesmc/lideranca/files/5802275/Verificando.a.necessidade.de.treinamento.docx)
