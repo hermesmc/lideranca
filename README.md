@@ -39,3 +39,7 @@ Uma outra ferramenta que contribui no exercício da liderança junto à equipe �
 
 Embora, muitas vezes, os integrantes da equipe sabem o que deve ser realizado. Em um determinado momento é importante que o líder possa verificar se o combinado está sendo executado. Dessa maneira é fundamental realizar a avaliação de desempenho de cada integrante. As competências utilizadas num determinado cargo deverão estar claras no formulário de avaliação de desempenho, bem como um espaço para que seja possível avaliá-las através de conceitos. É importante que esteja claro como as pessoas estão desempenhando suas atividades para que tenham possibilidades de manter ou melhorar suas entregas. Sugiro que você escolha um integrante da sua equipe e que possam preencher o formulário juntos para que você tenha a oportunidade de treinar. Depois, sugiro adequar o formulário a realidade de sua equipe e mão na massa: 
 [Avaliação de desempenho.docx](https://github.com/hermesmc/lideranca/files/5802333/Avaliacao.de.desempenho.docx)  
+
+# Feedback 
+
+Após avaliação de desempenho frente aos objetivos propostos faz-se necessário um realinhamento de metas junto à equipe. Alguns integrantes continuarão a fazer o trabalho que estavam acostumados, outros farão novas atividades e assim por diante. Em alguns momentos o líder verificará a necessidade de conversar individualmente com as pessoas para reforçar algo que vem ocorrendo ou sugerir algumas modificações. 
