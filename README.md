@@ -51,6 +51,8 @@ Diversas vezes, devido a não ocorrência das combinações realizadas frente ao
 
 [Valorizando a Equipe](https://blog.engage.bz/como-reconhecer-colaboradores-6-formas-de-valorizar-sua-equipe/)
 
+-----------------------------------------------------------------------------------------------
+
 Preparação para reuniões TI
 Números da área::
 - Bugs;
