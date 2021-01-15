@@ -50,3 +50,28 @@ Após avaliação de desempenho frente aos objetivos propostos faz-se necessári
 Diversas vezes, devido a não ocorrência das combinações realizadas frente aos feedbacks e avaliações de desempenho, o líder percebe-se na situação de desligamento do colaborador. Embora não seja fácil. Por vezes, é necessário. Uma pessoa não conseguindo entregar resultados ou poluindo o ambiente da equipe, após algumas tentativas, é fundamental que seja desligada. Nesse sentido o líder preserva a equipe, zela pela entrega do resultado e, de alguma forma, poderá estar contribuindo para que a pessoa desligada possa ter outras oportunidades em sua carreira. Uma coisa é bem importante, uma conversa sincera na despedida da pessoa. [Formulário de desligamento.pptx](https://github.com/hermesmc/lideranca/files/5804189/Formulario.de.desligamento.pptx)
 
 [Valorizando a Equipe](https://blog.engage.bz/como-reconhecer-colaboradores-6-formas-de-valorizar-sua-equipe/)
+
+Preparação para reuniões TI
+Números da área::
+- Bugs;
+- Entrada de novos projetos;
+- Entregas;
+- Times dedicados.
+
+Estabelecer metas para acompanhar a evolução do trabalho.
+Metas:
+- Entregas de features novas;
+- Correções de bugs;
+- Tickets resolvidos.
+
+Conhecimento do time = conhecer as competências (conjunto de conhecimentos, habilidades e 
+atitudes que cada profissional pode trazer para o negócio.
+
+Reconhecer quem faz bem as coisas (conhecer a política da empresa para proporcionar esse reconhecimento - gift card/jantar/etc)
+
+Controle da raiva
+1 - respirar profundamente;
+2 - Repita para si mesmo e calmamente a frase: "Vá com calma".
+3 - Foque na lógica do debate e pense com cuidade no que vai dizer.
+
+Ter consciencia sobre como nos sentimos nos ajuda a melhorar nosso domínio pessoal.
