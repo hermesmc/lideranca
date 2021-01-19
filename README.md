@@ -1,5 +1,5 @@
 # Liderança 
-- Conteúdo baseado do curso: Liderança: práticas de gestão e melhorias - ALURA.
+- Conteúdo baseado nos cursos: "Liderança: práticas de gestão e melhorias" e "Hábitos de liderança" - ALURA.
 
 
 ## Tipos de líderes
