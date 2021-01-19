@@ -78,33 +78,31 @@ Controle da raiva
 
 Ter consciencia sobre como nos sentimos nos ajuda a melhorar nosso domínio pessoal.
 
-Postura do líder
+## Postura do líder
 
-Vantagens de trabalhar em equipe:
+### Vantagens de trabalhar em equipe:
 - Soma de conhecimentos e experiências;
 - Novas idéias;
 - Responsabilidade compartilhada;
 - Engajamento das pessoas.
 
-Críticas são uteis?
+### Críticas são uteis?
 - Sinceras e razoáveis, sim: gera melhoria contínua.
 - Analise criteriosa: conteúdo, contexto e ouvir atentamente.
 
-Para evitar criticas sem fundamento
+### Para evitar criticas sem fundamento
 - Cuidado para não parecer o dono da verdade;
 - Argumentar;
 - Explicar seu ponto de vista.
 
-Lidar com críticas é ouvir diferentes pontos de vista.
+### Lidar com críticas é ouvir diferentes pontos de vista.
 - Ouça;
 - Analise
 - Compreenda.
 
-São oportunidades de expandir e crescer como líderes
+## São oportunidades de expandir e crescer como líderes
 
-- Dar bons exemplos é um excelente hábito de liderança.
-
-Exercícios de autoconsciência:
+### Exercícios de autoconsciência:
 - Reconhecer comportamentos;
 - Ajustar seu estilo de liderança;
 
@@ -116,3 +114,4 @@ Exercícios de autoconsciência:
 - Orientar quando necessário. 
 
 # Boa liderança = Bons exemplos
+- Dar bons exemplos é um excelente hábito de liderança.
