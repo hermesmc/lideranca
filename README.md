@@ -1,6 +1,15 @@
 # Liderança 
 - Conteúdo baseado nos cursos: "Liderança: práticas de gestão e melhorias" e "Hábitos de liderança" - ALURA.
 
+## Responsabilidade do lider
+
+A liderança é responsável:
+- Definir e acompanhar as metas;
+- Manter as expectativas alinhadas;
+- Desenvolver competência de gestão;
+- Analise crítica;
+- Melhoria contínua.
+- IMPORTANTE: Estar sempre se atualizando quando o assunto é comunicação.
 
 ## Tipos de líderes
 
@@ -23,6 +32,10 @@ Com base nos estilos de liderança aprendidos peço que escreva exemplos de comp
 "Quando uma pessoa me diz: 'Vamos lá! Faça!', ela está me estimulando.
 
 A motivação vem de dentro. Reúno minhas razões internas e minhas metas para me mexer, para me colocar em movimento. Se não fosse de mim para mim, quem me faria agir a não ser obrigado? E se faço obrigado, não estou sendo motivado. Ao contrário, estou sendo pressionado e, portanto, não é motivação, mas pressão. Eu preciso fazer com que meu desejo, minha vontade e minha capacidade se movimentem internamente e que eu vá buscar". (Mário Sérgio Cortela)
+
+Profissionais podem ficar exaustos apenas tentando descobrir o que se espera deles
+
+[Motivação 3.0](https://cursos.alura.com.br/como-manter-a-motivacao-no-dia-a-dia-da-equipe-c263)
 
 # Processo seletivo
 
@@ -69,7 +82,10 @@ Metas:
 Conhecimento do time = conhecer as competências (conjunto de conhecimentos, habilidades e 
 atitudes que cada profissional pode trazer para o negócio.
 
-Reconhecer quem faz bem as coisas (conhecer a política da empresa para proporcionar esse reconhecimento - gift card/jantar/etc)
+Reconhecer quem faz bem as coisas. Formas de fazer isso, além de parabenizar os envolvidos:
+- Publicar uma foto da equipe ou da entrega no Linkedin
+- Combinar um almoço com todos da equipe;
+- Combinar uma festa.
 
 Controle da raiva
 1 - respirar profundamente;
@@ -115,3 +131,9 @@ Ter consciencia sobre como nos sentimos nos ajuda a melhorar nosso domínio pess
 
 # Boa liderança = Bons exemplos
 - Dar bons exemplos é um excelente hábito de liderança.
+
+# EQUILÍBRIO
+- Area social
+- Area física
+- Area espiritual 
+- Area mental
