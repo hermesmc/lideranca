@@ -152,5 +152,5 @@ São 4 benefícios do empoderamento para o ambiente corporativo:
 3 - Garantir maior velocidade de resposta;
 4 - Ter líderes que delegam mais e, consequentemente, conseguem ser mais estratégicos(as).
 
-Para conhecer mais do assunto o artigo de Marcos Antonio Martins Lima e Sâmia Araújo Frota
+Para conhecer mais do assunto o artigo de Marcos Antonio Martins Lima e Sâmia Araújo Frota<p>
 [OEMPOWERMENTE A TEORIA ORGANIZACIONAL: UM INCREMENTONOQUANTUMDE PODER ?](https://github.com/hermesmc/lideranca/files/5886657/MFLKB4HXk5JSF4B_2013-4-17-14-52-58.pdf)
