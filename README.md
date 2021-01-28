@@ -137,3 +137,7 @@ Ter consciencia sobre como nos sentimos nos ajuda a melhorar nosso domínio pess
 - Area física
 - Area espiritual 
 - Area mental
+
+### O que são KPIs?
+
+KPIs são indicadores chave de desempenho, que podem ser: hora trabalhada, vendas, número de reclamações, e etc. Uma ferramenta para acompanhar os entregáveis da equipe é o Trello, mas nem todos podem gostar desse formato sendo necessário criar outras estratégias na gestão.
