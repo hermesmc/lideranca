@@ -141,3 +141,14 @@ Ter consciencia sobre como nos sentimos nos ajuda a melhorar nosso domínio pess
 ### O que são KPIs?
 
 KPIs são indicadores chave de desempenho, que podem ser: hora trabalhada, vendas, número de reclamações, e etc. Uma ferramenta para acompanhar os entregáveis da equipe é o Trello, mas nem todos podem gostar desse formato sendo necessário criar outras estratégias na gestão.
+
+### Empoderamento
+
+Empoderamento: dar ao funcionário iniciativa para que tome decisões para resolver problemas e melhorar processos, tornando-o mais responsável pelos resultados obtidos.
+
+São 4 benefícios do empoderamento para o ambiente corporativo:
+1 - Desenvolver mentes pensantes que sabem diagnosticar problemas e trazem soluções;
+2 - Garantir que pessoas assumam responsabilidade e tenham iniciativa própria, abertura para as pessoas exporem seus pontos de vista;
+3 - Garantir maior velocidade de resposta;
+4 - Ter líderes que delegam mais e, consequentemente, conseguem ser mais estratégicos(as).
+
