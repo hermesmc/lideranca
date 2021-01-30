@@ -168,9 +168,7 @@ Planejamento:
 - Pedir que liguem as cameras para que todos possam se ver;
 - Se necessário, chame no privado caso perceba alguém aéreo ou distante da reunião;
 - Utilizar o recurso de compartilhamento de telas;
-- Respeitar o tempo é um ato de respeito com todos que estão naquele momento. CAso a reunião precise ser prorrogada, 
-  pergunte as pessoas envolvidas se não há problemas em prorrogar por mais 10 ou 15 minutos, ou então marque outra  
-  reunião para complementar esta;
+- Respeitar o tempo é um ato de respeito com todos que estão naquele momento. CAso a reunião precise ser prorrogada, pergunte as pessoas envolvidas se não há problemas em prorrogar por mais 10 ou 15 minutos, ou então marque outra reunião para complementar esta;
 - Faça um resumo da reunião;
 
 [Comunicação assertiva](https://www.alura.com.br/artigos/cinco-passos-para-uma-comunicacao-mais-assertiva)
