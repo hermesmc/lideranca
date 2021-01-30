@@ -154,3 +154,23 @@ São 4 benefícios do empoderamento para o ambiente corporativo:
 
 Para conhecer mais do assunto o artigo de Marcos Antonio Martins Lima e Sâmia Araújo Frota<p>
 [OEMPOWERMENTE A TEORIA ORGANIZACIONAL: UM INCREMENTONOQUANTUMDE PODER ?](https://github.com/hermesmc/lideranca/files/5886657/MFLKB4HXk5JSF4B_2013-4-17-14-52-58.pdf)
+
+## Reuniões
+
+Planejamento:
+- Deve garantir aos participantes: engajamento, motivação e sentimento de pertencimento;
+- Estabelecer de dois a três tópicos principais com pauta pré-definida;
+- Não pode haver reunião sem objetivo claro;
+- Seja anfitrião e mediador;
+- Pontualidade, comprimentar todos, perguntar como estão, comece falando da pauta;
+- Controle o tempo determinado para acabar a reunião;
+- Estabelecer regras para interação;
+- Pedir que liguem as cameras para que todos possam se ver;
+- Se necessário, chame no privado caso perceba alguém aéreo ou distante da reunião;
+- Utilizar o recurso de compartilhamento de telas;
+- Respeitar o tempo é um ato de respeito com todos que estão naquele momento. CAso a reunião precise ser prorrogada, 
+  pergunte as pessoas envolvidas se não há problemas em prorrogar por mais 10 ou 15 minutos, ou então marque outra  
+  reunião para complementar esta;
+- Faça um resumo da reunião;
+
+[Comunicação assertiva](https://www.alura.com.br/artigos/cinco-passos-para-uma-comunicacao-mais-assertiva)
