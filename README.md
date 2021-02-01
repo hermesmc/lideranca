@@ -172,3 +172,14 @@ Planejamento:
 - Faça um resumo da reunião;
 
 [Comunicação assertiva](https://www.alura.com.br/artigos/cinco-passos-para-uma-comunicacao-mais-assertiva)
+
+"A comunicação não é sobre falar o que pensamos, é sobre garantir que os outros compreendam o que queremos dizer." (Simon Sinek)
+
+Para melhor comunicação, defina:
+- Qual melhor horário para se comunicar com a equipe sobre aasuntos diversos? Escolha um horário para essas conversas.
+- Comunicação por email. Deve servir para fortalecer(complementar) uma informação dada verbalmente. A informação deve ser dada verbalmente antes do e-mail. Evitar broncas ou discussões por email.
+- No Whatsapp ou Chat, uilize a gramática da forma mais perfeita e objetiva possível. Evite audios longos. 
+- Comunicação individual por video chamada. Deixe a camera aberta para facilitar essa comunicação. 
+	- Defina seu objetivo ao comunicar;
+	- Evite ambiguidade na comunicação;
+	- Evite a prolixidade - uso excessivo de palavras;
