@@ -58,6 +58,22 @@ Embora, muitas vezes, os integrantes da equipe sabem o que deve ser realizado. E
 
 Após avaliação de desempenho frente aos objetivos propostos faz-se necessário um realinhamento de metas junto à equipe. Alguns integrantes continuarão a fazer o trabalho que estavam acostumados, outros farão novas atividades e assim por diante. Em alguns momentos o líder verificará a necessidade de conversar individualmente com as pessoas para reforçar algo que vem ocorrendo ou sugerir algumas modificações. [Formula do feedback.pptx](https://github.com/hermesmc/lideranca/files/5804142/Formula.do.feedback.pptx)
 
+O que o feedback precisa conter:
+- detalhar o gap
+- trazer exemplos práticos
+- enaltecer pontos fortes
+- não levar sua opinião para o lado pessoal
+
+O importante é que quem lidera avalie profissionalmente e não a pessoa em si.
+
+"Um funcionário engajado é até 12 vezes mais propenso a estar totalmente engajado quando confia no gestor." (estudo pela ADP)
+
+Pontos importantes:
+- A clareza sobre as expectativas do prórpio trabalho;
+- Sentimento que as competências estão sendo usadas.
+
+Funcionários engajados produzem mais.
+
 # Demissão
 
 Diversas vezes, devido a não ocorrência das combinações realizadas frente aos feedbacks e avaliações de desempenho, o líder percebe-se na situação de desligamento do colaborador. Embora não seja fácil. Por vezes, é necessário. Uma pessoa não conseguindo entregar resultados ou poluindo o ambiente da equipe, após algumas tentativas, é fundamental que seja desligada. Nesse sentido o líder preserva a equipe, zela pela entrega do resultado e, de alguma forma, poderá estar contribuindo para que a pessoa desligada possa ter outras oportunidades em sua carreira. Uma coisa é bem importante, uma conversa sincera na despedida da pessoa. [Formulário de desligamento.pptx](https://github.com/hermesmc/lideranca/files/5804189/Formulario.de.desligamento.pptx)
