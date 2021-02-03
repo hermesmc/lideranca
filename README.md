@@ -199,3 +199,24 @@ Para melhor comunicação, defina:
 	- Defina seu objetivo ao comunicar;
 	- Evite ambiguidade na comunicação;
 	- Evite a prolixidade - uso excessivo de palavras;
+	
+### Engajamento
+
+Algumas práticas para manter a cultura organizacional:
+
+- Prática de comemoração
+- Prática de comunicação
+- Prática de sociabilidade
+- Prática de desenvolvimento
+- Prática de checagem
+- Prática de aniversário
+- Prática de cultura
+    
+Fatores que determinam o engajamento das pessoas:
+- O primeiro é o individual (como cada pessoa percebe o próprio desenvolvimento), 
+- o segundo é o de grupo (como cada pessoa percebe o nível de colaboração entre as pessoas), 
+- e o terceiro é o organizacional (como o time vê o impacto de seu trabalho no todo).
+
+[Video - Patricia Tavares - Cultura Organizacional Alavancando Negócios](https://www.youtube.com/watch?v=2-Bj-XJ8svA&feature=youtu.be)
+
+[Artigo - Como manter os colaboradores engajados](https://www.alura.com.br/artigos/como-manter-os-colaboradores-engajados)
