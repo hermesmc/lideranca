@@ -220,3 +220,23 @@ Fatores que determinam o engajamento das pessoas:
 [Video - Patricia Tavares - Cultura Organizacional Alavancando Negócios](https://www.youtube.com/watch?v=2-Bj-XJ8svA&feature=youtu.be)
 
 [Artigo - Como manter os colaboradores engajados](https://www.alura.com.br/artigos/como-manter-os-colaboradores-engajados)
+
+## Relações interpessoais contribuem na:
+- Prevenção de problemas;
+- Antecipar soluções;
+- Perceber novas oportunidades;
+- Melhorar resultados dntro da organização.
+
+# Isso é bom para termos:
+
+Profissionais mais capacitados
+- Autoconhecimento;
+- Forças pessoais;
+
+Melhora o clima organizacional
+
+Aumento de produtividade
+
+Profisionais mais engajados
+
+Menor rotatividade
