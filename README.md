@@ -229,14 +229,45 @@ Fatores que determinam o engajamento das pessoas:
 
 ### Isso é bom para termos:
 
-Profissionais mais capacitados
-- Autoconhecimento;
-- Forças pessoais;
+- Profissionais mais capacitados
+  - Autoconhecimento;
+  - Forças pessoais;
 
-Melhora o clima organizacional
+- Melhora o clima organizacional
 
-Aumento de produtividade
+- Aumento de produtividade
 
-Profisionais mais engajados
+- Profisionais mais engajados
 
-Menor rotatividade
+- Menor rotatividade
+
+### Comportamentos comuns de pessoas consideradas dificeis:
+- Eles sempre querem ter a última palavra;
+- Eles geralmente não cumprem seus compromissos;
+- Eles criticam tudo em que não participam;
+- Eles tendem a competir com seu parceiro por poder, privilégio e por estar em primeiro plano;
+- Alguns, para parcerem bons aos olhos do chefe, desqualificam o trabalho de colegas.
+
+Como lidar com uma pessoa difícil?
+- Mantenha a calma;
+	- Atenção a respiração;
+- Aprenda a ouvir;
+	- Preste atenção no que foi dito;
+- Cuidado com julgamentos
+	- Busque compreender a origem do problema
+- Não haja na defensiva
+	- Aproprie-se de uma postura conciliatória
+	- Evite conflitos
+- Estabeleça limites
+	- Caso a pessoa venha a falar de maneira rispida tenha total segurança para dizer: "Não fale assim comigo".
+
+Consequencias de o time atuar individualmente
+- Falta de confiança
+- Falta de comunicação;
+- Falta de compreensão;
+- Falta de comprometimento
+
+Como contornar essa situação?
+- Respeito, empatia e confronto.
+
+# Objetivo do líder: "manter todos na mesma direção".
