@@ -1,5 +1,5 @@
 # Liderança 
-- Conteúdo baseado nos cursos: "Liderança: práticas de gestão e melhorias" e "Hábitos de liderança" - ALURA.
+- Conteúdo baseado nos cursos da formação "Minha primeira liderança" - ALURA.
 
 ## Responsabilidade do lider
 
