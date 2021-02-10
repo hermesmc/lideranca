@@ -271,3 +271,13 @@ Como contornar essa situação?
 - Respeito, empatia e confronto.
 
 # Objetivo do líder: "manter todos na mesma direção".
+
+Valorizar o cumprimeto de tarefas nos prazos e não encarar como "não fez mais do que sua obrigação".
+
+É da competência do chefe estabecer uma relação de coleguismo entre os membros de sua equipe.
+
+A liderança precisa ter atenção para demonstrar como todos da equipe são importantes e não apenas um ou outro.
+
+Construir um time colaborativo é fundamental para que os integrantes sejam vistos como colaboradores e não competidores.
+
+[5 atitudes diarias para reforçar a cultura de colaboração](https://blog.contentools.com.br/marketing-de-conteudo/5-atitudes-diarias-para-reforcar-cultura-de-colaboracao-na-sua-empresa/)
