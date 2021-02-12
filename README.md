@@ -281,3 +281,6 @@ A liderança precisa ter atenção para demonstrar como todos da equipe são imp
 Construir um time colaborativo é fundamental para que os integrantes sejam vistos como colaboradores e não competidores.
 
 [5 atitudes diarias para reforçar a cultura de colaboração](https://blog.contentools.com.br/marketing-de-conteudo/5-atitudes-diarias-para-reforcar-cultura-de-colaboracao-na-sua-empresa/)
+
+### Regra das 24 horas
+- Depois de enventuais problemas com os liderados, efetuar um contato para aparar as arestas. Esse contato deve ser feito de maneira tranquila para apaziguar a situação.
