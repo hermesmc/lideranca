@@ -284,3 +284,5 @@ Construir um time colaborativo é fundamental para que os integrantes sejam vist
 
 ### Regra das 24 horas
 - Depois de enventuais problemas com os liderados, efetuar um contato para aparar as arestas. Esse contato deve ser feito de maneira tranquila para apaziguar a situação.
+
+[DIsciplina no trabalho - 9 dicas](https://gestaodeequipes.com.br/9-dicas-para-ter-mais-sucesso/)
