@@ -286,3 +286,19 @@ Construir um time colaborativo é fundamental para que os integrantes sejam vist
 - Depois de enventuais problemas com os liderados, efetuar um contato para aparar as arestas. Esse contato deve ser feito de maneira tranquila para apaziguar a situação.
 
 [DIsciplina no trabalho - 9 dicas](https://gestaodeequipes.com.br/9-dicas-para-ter-mais-sucesso/)
+
+### Respeito é ganho com o tempo, requer esforço e atitudes:
+- Proporcionar crescimento;
+- Lidar com cinflitos;
+- Ser conciente e sincero;
+- Ser autêntico.
+
+### Característica da boa liderança:
+- Transparência;
+- Senso de justiça;
+- Compreensão;
+- Empaticos;
+- Concientes;
+- Inteligência emocional.
+
+# Seja um bom ouvinte
