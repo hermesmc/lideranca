@@ -302,3 +302,13 @@ Construir um time colaborativo é fundamental para que os integrantes sejam vist
 - Inteligência emocional.
 
 # Seja um bom ouvinte
+
+### Criação colaborativa
+- Lidar com a sensação de ter menos controle;
+- Conhecimento compartilhado;
+- Motivação sobre o trabalho;
+- Gera liberdade e responsabilidade;
+- Treino para tomada de decisão assertiva;
+
+# Recompensa para um líder
+- Ter uma equipe que acredite na sua liderança;
