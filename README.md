@@ -314,9 +314,21 @@ Construir um time colaborativo é fundamental para que os integrantes sejam vist
 - Ter uma equipe que acredite na sua liderança;
 
 
-### Testes:
+## Testes:
 
 - [Teste de personalidade](https://www.16personalities.com/br)
 - [Teste de liderança](https://testesprofissionais.com.br/teste-de-lideranca-que-tipo-de-lider-voce-e/)
 - [Teste perfil de liderança](https://economia.uol.com.br/quiz/2013/01/16/qual-e-o-seu-perfil-de-lideranca.htm)
 - [6 tipos de liderança](https://www.siteware.com.br/blog/lideranca/testes-psicologicos-de-lideranca/)
+
+### Delegação de tarefas
+
+Você sabia que não basta somente priorizar as tarefas? Mais importante ainda é colocá-las organizadas em algum lugar para entender o que precisa ser feito agora, o que pode ser agendado, o que deve ser delegado e o que nem deve ser feito.
+
+Gerenciar tarefas demanda uma boa gestão de tempo, e uma ferramenta para isso é a matriz de gerenciamento do tempo, onde definimos o que é:
+
+- Urgente e Importante (faça) 
+- Importante (agende) 
+- Não urgente e Importante (delegue) 
+- Não urgente e Não importante (delete)
+
