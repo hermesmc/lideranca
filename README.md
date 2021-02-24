@@ -332,3 +332,4 @@ Gerenciar tarefas demanda uma boa gestão de tempo, e uma ferramenta para isso �
 - Não urgente e Importante (delegue) 
 - Não urgente e Não importante (delete)
 
+![imagem def prioridades org](https://user-images.githubusercontent.com/49697760/108993630-9ce05500-7679-11eb-9845-3f84a06617d5.png)
