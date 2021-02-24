@@ -312,3 +312,11 @@ Construir um time colaborativo é fundamental para que os integrantes sejam vist
 
 # Recompensa para um líder
 - Ter uma equipe que acredite na sua liderança;
+
+
+### Testes:
+
+[Teste de personalidade] (https://www.16personalities.com/br)
+[Teste de liderança] (https://testesprofissionais.com.br/teste-de-lideranca-que-tipo-de-lider-voce-e/)
+[Teste perfil de liderança] (https://economia.uol.com.br/quiz/2013/01/16/qual-e-o-seu-perfil-de-lideranca.htm)
+[6 tipos de liderança] (https://www.siteware.com.br/blog/lideranca/testes-psicologicos-de-lideranca/)
