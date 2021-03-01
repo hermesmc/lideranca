@@ -341,24 +341,24 @@ Por que e como delegar tarefas?
 - Delegar tarefas não é o mesmo que delegar responsabilidades.
 - Necessário definir prazos esperados.
 
-### Como líderes, podemos criar um ambiente de confiança seguindo alguns passos:
+# Como líderes, podemos criar um ambiente de confiança seguindo alguns passos:
 
-Conhecer a equipe e em que cada um é bom
+- Conhecer a equipe e em que cada um é bom
 
 Muitos líderes não dão abertura para conhecerem seus liderados e isso pode fazer com que ele passe as tarefas erradas para as pessoas erradas, quando se conhece bem as habilidades e movimentos de carreira de cada integrante do time, fica mais fácil delegar as tarefas certas para as pessoas certas.
 
-Conversar e entender os motivos caso haja algum resultado ruim
+- Conversar e entender os motivos caso haja algum resultado ruim
 
 A primeira reação quando há um resultado ruim ou fora do prazo é ficar bravo ou começar a chamar a atenção da pessoa, porém é muito melhor quando o líder senta com o liderado e tenta entender o motivo e como isso pode ser melhorado no futuro para que não aconteça de novo.
 
-Esclarecer prazos e resultados
+- Esclarecer prazos e resultados
 
 Às vezes, por estamos tão imersos numa tarefa, achamos que todo mundo está como nós, e isso acaba deixando muita informação subentendida, gerando muita dor de cabeça, pois você, como líder, não pode deduzir que a outra pessoa sabe o prazo ou o resultado esperado, é necessário deixar isso bem claro para evitar estresses futuros.
 
-Desenvolver pessoas
+- Desenvolver pessoas
 
 Com o tempo, todo líder entende que seu papel mais fundamental é treinar e desenvolver a equipe, pois somente fazendo isso é que se consegue criar um time de alta performance e com bons resultados, e a delegação de tarefas sempre gera oportunidades boas para entender as lacunas de conhecimento existentes dentro da equipe.
 
-[Delegação de autoridade]( http://www.sobreadministracao.com/delegacao-de-autoridade-o-que-e-e-como-funciona/)
-[Delegar tarefas](https://www.catho.com.br/carreira-sucesso/carreira/lideranca/delegar-tarefas-habilidade-do-lider/)
+- [Delegação de autoridade]( http://www.sobreadministracao.com/delegacao-de-autoridade-o-que-e-e-como-funciona/)
+- [Delegar tarefas](https://www.catho.com.br/carreira-sucesso/carreira/lideranca/delegar-tarefas-habilidade-do-lider/)
 
