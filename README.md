@@ -74,6 +74,8 @@ Pontos importantes:
 
 Funcionários engajados produzem mais.
 
+[Tipos de feedback](https://rockcontent.com/br/blog/feedback/)
+
 # Demissão
 
 Diversas vezes, devido a não ocorrência das combinações realizadas frente aos feedbacks e avaliações de desempenho, o líder percebe-se na situação de desligamento do colaborador. Embora não seja fácil. Por vezes, é necessário. Uma pessoa não conseguindo entregar resultados ou poluindo o ambiente da equipe, após algumas tentativas, é fundamental que seja desligada. Nesse sentido o líder preserva a equipe, zela pela entrega do resultado e, de alguma forma, poderá estar contribuindo para que a pessoa desligada possa ter outras oportunidades em sua carreira. Uma coisa é bem importante, uma conversa sincera na despedida da pessoa. [Formulário de desligamento.pptx](https://github.com/hermesmc/lideranca/files/5804189/Formulario.de.desligamento.pptx)
@@ -362,3 +364,24 @@ Com o tempo, todo líder entende que seu papel mais fundamental é treinar e des
 - [Delegação de autoridade]( http://www.sobreadministracao.com/delegacao-de-autoridade-o-que-e-e-como-funciona/)
 - [Delegar tarefas](https://www.catho.com.br/carreira-sucesso/carreira/lideranca/delegar-tarefas-habilidade-do-lider/)
 
+### Microgerenciamento
+
+Não microgerenciar as coisas. As pessoas devem se responsabilizar pelas entregas também.
+
+[Neste artigo conseguimos ver alguns pontos ruins do microgerenciamento.](https://www.catho.com.br/carreira-sucesso/colunistas/rosangela-souza/microgerenciamento-um-veneno-que-o-lider-toma-sem-perceber/)
+
+
+- Esclarecer os resultados esperados
+- Definir prazos para o término da tarefa
+- Treinar e desenvolver pessoas
+- Não querer controlar tudo
+- Separar por importância e acompanhar de perto só o que é crítico para o projeto
+- Reposnabilizar a equipe pelas pequenas entregas com eles dando posicionamento sobre o andamento
+- Deixar claro que o resultado é mportante
+
+[Artigo: Como desenvolver a Inteligência emocional](https://administradores.com.br/artigos/como-desenvolver-inteligencia-emocional-no-trabalho)
+
+- Feedback contínuo
+- Ser ponto de apoio
+- Desenvolver e treinar a equipe
+- Direcionar 
